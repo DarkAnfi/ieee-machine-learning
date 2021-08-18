@@ -1,0 +1,3 @@
+# Machine Learning Applied to the Correlation between Socio-Economic Segregation and the SIMCE Test Performance in the Primary School System of Chile
+
+Este trabajo se encuentra enmarcado en el proyecto ANID FONDECYT N°11170583. El equipamiento utilizado ha sido parcialmente financiado con el proyecto UCT VIP FEQUIP2019‐INRN‐03. Esta investigación utilizó como fuentes de información las bases de datos del Ministerio de Educación y de la Agencia de Calidad de la Educación de Chile. Los autores agradecen a ambas instituciones el acceso a la información. Todos los resultados del estudio son de responsabilidad del autor y en nada comprometen a las mismas.
